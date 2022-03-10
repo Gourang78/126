@@ -1,0 +1,28 @@
+.heading{
+
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    
+}
+
+.note{
+
+    color: black;
+    font-size: 15px;
+
+}
+
+#song_name{
+
+    font-size: 23px;
+    
+}
+
+canvas{
+
+    background-color: black;
+    border: solid white;
+    box-shadow: 2px 2px 2px cyan;
+
+}
